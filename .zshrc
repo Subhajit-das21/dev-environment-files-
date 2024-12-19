@@ -201,3 +201,16 @@ export BAT_THEME=tokyonight_night
 
 alias ls="eza --icons=always"
 alias tree="eza --tree --icons=always"
+
+# ----------------------
+# Git Aliases
+# ----------------------
+alias gi='git init'
+alias gro='git remote add origin'
+alias ga='git add'
+alias gaa='git add .'
+alias gcm='git commit -m'
+alias gpsh='git push'
+alias gpsho='git push -u origin'
+alias gss='git status -s'
+alias gs='git status'
